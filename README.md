@@ -27,11 +27,4 @@ To use the application:
 
 ## Deployment
 
-You can deploy this application on GitHub Pages or any other hosting service that supports static websites. To deploy on GitHub Pages:
-
-1. Fork this repository.
-2. Clone the forked repository to your local machine.
-3. Customize the code or styling if desired.
-4. Commit your changes and push them to your forked repository.
-5. Enable GitHub Pages for your repository in the repository settings.
-6. Access your hosted Movie Information Finder application using the provided GitHub Pages URL.
+This app is deployed using GitHub Pages. You can access it [here](https://christianblackwell.github.io/Movie-Information-Finder/).
